@@ -37,7 +37,7 @@ jobs:
 
       - name: Build Flutter web app
         working-directory: front-end
-        run: flutter build web --release --base-href "internship-task1"
+        run: flutter build web --release --base-href "/internship-task1/"
 
       - name: Set up Pages
         uses: actions/configure-pages@v5
