@@ -31,7 +31,7 @@ Both demo accounts use the password `EduSphere123!`:
 - Requester: `user@edusphere.com`
 - Approver: `kr.sharma@edusphere.com`
 
-These credentials and role behavior are implemented by the mock authentication repository. Replace them with the agreed backend authentication contract before production use.
+These credentials and role behavior are implemented by the mock authentication repository. 
 
 ## Architecture
 
